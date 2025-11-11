@@ -1,0 +1,10 @@
+{
+  "id": "forum-copy-as-html",
+  "name": "Forum Copy as HTML",
+  "version": "0.4.5",
+  "minAppVersion": "1.5.0",
+  "description": "Copies Markdown as full HTML for forum or web posting, including headings, inline formatting, tables, links, and footnotes.",
+  "author": "Simon Middlemiss",
+  "authorUrl": "https://github.com/We-are-stardust",
+  "isDesktopOnly": false
+}
